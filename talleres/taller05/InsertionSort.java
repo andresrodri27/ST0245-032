@@ -22,14 +22,7 @@ public class InsertionSort
         return arr;
     }
 
-    /**
-     * @param array es un arreglo de n�meros desordenados
-     * El m�todo insertionSort tiene la intenci�n ordenar los n�meros
-     * del arreglo array por el m�todo insertion:
-     * @see <a href="https://www.youtube.com/watch?v=OGzPmgsI-pQ"> Insertion Sort <a/>
-     * mediante la anidaci�n de funciones c�clicas (while/for/...)
-     * 
-     */
+}
     public static int[] insertionSort (int[] array){  
         int aux; //C1
         for(int i=0; i<array.length; i++){ //C2*n
