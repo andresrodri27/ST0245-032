@@ -1,0 +1,35 @@
+RESUTLADOS
+
+TEST LEER.
+Tiempo promedio:0 ms.
+Tiempo máximo: 1 ms.
+Tiempo mínimo: 0 ms.
+Promedio de memoria: 1851800 bytes.
+Memoria maxima usada: 4394904 bytes.
+Memoria minima usada: 1731336 bytes.
+
+TEST ESCRIBIR.
+Tiempo promedio:1 ms.
+Tiempo máximo: 4 ms.
+Tiempo mínimo: 0 ms.
+Promedio de memoria: 1926035 bytes.
+Memoria maxima usada: 4508136 bytes.
+Memoria minima usada: 1732376 bytes.
+
+TEST SEPARACIONNODOS.
+Tiempo promedio:0 ms.
+Tiempo máximo: 1 ms.
+Tiempo mínimo: 0 ms.
+Promedio de memoria: 1866863 bytes.
+Memoria maxima usada: 3353616 bytes.
+Memoria minima usada: 679936 bytes.
+
+TEST PRINCIPAL.
+Tiempo promedio:0 ms.
+Tiempo máximo: 2 ms.
+Tiempo mínimo: 0 ms.
+Promedio de memoria: 2203812 bytes.
+Memoria maxima usada: 3448248 bytes.
+Memoria minima usada: 2112424 bytes.
+
+FIN RESUTLADOS
